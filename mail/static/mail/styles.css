@@ -1,0 +1,15 @@
+textarea {
+    min-height: 400px;
+}
+
+.email {
+    cursor: pointer;
+}
+
+.leido {
+    background-color:#D0CDCD;
+}
+
+.hidden {
+    visibility: hidden;
+}
